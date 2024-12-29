@@ -3,6 +3,7 @@ This project contains a Flappy Bird game developed using the Python programming 
 
 # How to Play
 1.Clone the project files to this repository.
+
 2.Ensure that you have Python 3 and the Pygame library installed on your computer.
 3.Navigate to the project directory in your terminal.
 4.Start the game by using the command python3 main.py.
